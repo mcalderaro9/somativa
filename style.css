@@ -1,0 +1,29 @@
+body{
+    background-color:linen
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    margin-left: 40%;
+}
+
+#links{
+    background-color: rgb(87, 165, 201);
+    border-radius: 5px;
+    width: 500px;
+    height: 700px;
+    margin-left: 35%;
+    margin-top: 7%;
+}
+
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    text-align: center;
+}
+
+h5{
+    margin-left: 6%;
+}
